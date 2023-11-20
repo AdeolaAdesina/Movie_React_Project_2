@@ -1,5 +1,7 @@
 # Movie_React_Project_2
 
+https://www.youtube.com/watch?v=b9eMGE7QtTk&t=3531s
+
 ## Set up React Application
 
 Using the create-react-app command. You need to have node.js installed.
